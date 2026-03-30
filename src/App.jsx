@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="CARBON REAPER.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          l <span className="heart">♥️</span> Devops
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          this web app writtem by Mr.yada Sangin
         </p>
         <p>
           <a

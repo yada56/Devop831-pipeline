@@ -10,7 +10,7 @@ function App() {
         </p>
         <img src="แมว.jpg" style={{width:300}} />
         <p className="small">
-          this web app writtem by Mr.yada Sangin
+          this web app writtem by <marquee><h1>l love cat </h1></marquee>
         </p>
         <p>
           <a
